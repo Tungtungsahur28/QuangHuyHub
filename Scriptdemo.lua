@@ -22,7 +22,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        MinimizeButton({
        Image = "http://www.roblox.com/asset/?id=127080972250886",
-       Size = {60, 60},
+       Size = {80, 80},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
        Stroke = false,
@@ -316,7 +316,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/XeroHub/refs
   })
   
   AddButton(Tab1o, {
-     Name = "banana hub premium",
+     Name = "banana hub premium fake",
     Callback = function()
 	  repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 getgenv().Key = "F4hb2akdkGhBb8P34QtRe7K43Fj"
@@ -332,7 +332,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hnc-roblox/Obii_HNCRo
   })
   
   AddButton(Tab5o, {
-     Name = "kaitun hub",
+     Name = "HNC kaitun",
     Callback = function()
 	  --[[ Auto Max Lv, Godhuman, Cdk, ... ]]--
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hnc-roblox/VIP/refs/heads/main/HNCHubKaitun_BloxFruits.lua"))()
@@ -340,7 +340,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hnc-roblox/VIP/refs/h
   })
   
   AddButton(Tab1o, {
-     Name = "script pvp",
+     Name = "hỗ trợ pvp",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/hnc-roblox/HNC-/refs/heads/main/PVP.lua"))()
   end
